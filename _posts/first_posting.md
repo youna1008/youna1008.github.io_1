@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "git 사용 정리"
-date: 2022-11-29 20:52
+date: 2022-11-29 20:52:09 +0900
 categories: jekyll update
 ---
 
