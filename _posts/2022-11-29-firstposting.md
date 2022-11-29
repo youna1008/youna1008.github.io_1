@@ -7,4 +7,4 @@ categories: jekyll update
 
 ## git 사용내용을 정리해 봅시다. 수업 내용.
 
-- 먼저 git 이란? 
+- git 이란?
